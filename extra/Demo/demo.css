@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  background: darkblue;
+  color: white;
+  margin: 50px;
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.description {
+  margin-bottom: 30px;
+  font-size: 18px;
+}
+
+.buy-button,
+.proplan-button {
+  display: block;
+  color: darkblue;
+  text-decoration: none;
+  padding: 10px;
+  width: max-content;
+  border-radius: 5px;
+}
+
+.buy-button {
+  font-weight: bold;
+  background: white;
+  margin: 0 auto 10px auto;
+}
+
+.proplan-button {
+  background: lightblue;
+  margin: 0 auto;
+}

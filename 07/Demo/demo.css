@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.page-container {
+  background-image: url('https://devmentor.pl/wp-content/uploads/2022/09/dominik-schroder-image-scaled.jpg');
+}
+
+.logo {
+  font-family: Impact, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
